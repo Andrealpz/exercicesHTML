@@ -1,0 +1,32 @@
+.colonnes{
+	display: flex;
+    flex-wrap: wrap;
+}
+div#colonne1{
+	width: 20%;
+	background-color: #139BB0;
+}
+div#colonne2{
+	width: 65%;
+	background-color: #21B0C6;
+}
+div#colonne3{
+	width: 15%;
+	background-color: #63D8EA;
+}
+.menu{
+	list-style: none;
+	text-align: center;
+	padding:0;
+    margin:0;
+    font-size: 40px;
+    color: white;
+}
+.menu ul {
+	list-style: none;
+	text-align: center;
+	padding:0;
+    margin:0;
+    font-size: 20px;
+    
+}
